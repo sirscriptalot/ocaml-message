@@ -1,0 +1,3 @@
+(test
+  (name message_test)
+  (libraries message))

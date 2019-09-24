@@ -1,7 +1,5 @@
 .DS_Store
 
-.env
-
 .merlin
 
 _build
